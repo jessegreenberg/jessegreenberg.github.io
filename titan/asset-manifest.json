@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.31d6cfe0.css",
+    "main.js": "./static/js/main.af721dca.js",
+    "static/media/rain-background.gif": "./static/media/rain-background.abe45a882c64a296f656.gif",
+    "static/media/campfire-background.mp3": "./static/media/campfire-background.bd4287ba094ace9588c0.mp3",
+    "static/media/waterfall-background.mp3": "./static/media/waterfall-background.0edf3ad4f69cb768e511.mp3",
+    "static/media/rain-background.mp3": "./static/media/rain-background.a36836c343a8775e4a4a.mp3",
+    "static/media/waterfall-background.gif": "./static/media/waterfall-background.25bb743a8384a981a8ca.gif",
+    "static/media/14.mp3": "./static/media/14.39926668ca98bec80dde.mp3",
+    "static/media/16.mp3": "./static/media/16.56f64b80f34543e9032f.mp3",
+    "static/media/7.mp3": "./static/media/7.b7e21881da2d75920c5b.mp3",
+    "static/media/1.mp3": "./static/media/1.327b66bae07a02eae5f0.mp3",
+    "static/media/6.mp3": "./static/media/6.448cc446f77b456fe062.mp3",
+    "static/media/4.mp3": "./static/media/4.187cfc44f79a58465dba.mp3",
+    "static/media/2.mp3": "./static/media/2.6709e28a16514e645712.mp3",
+    "static/media/17.mp3": "./static/media/17.208c7653d1f24b0507f4.mp3",
+    "static/media/8.mp3": "./static/media/8.34c867f302b42d95a0ec.mp3",
+    "static/media/3.mp3": "./static/media/3.abb4084946514fbc035f.mp3",
+    "static/media/5.mp3": "./static/media/5.d14fd013a967c8b7126f.mp3",
+    "static/media/13.mp3": "./static/media/13.b3c738d58a5f46359b5b.mp3",
+    "static/media/15.mp3": "./static/media/15.72f0a529b8316b92eee7.mp3",
+    "static/media/none-background.gif": "./static/media/none-background.7451cb414de01e5d2008.gif",
+    "static/media/11.mp3": "./static/media/11.9d376bf2aa7c284ec1fe.mp3",
+    "static/media/12.mp3": "./static/media/12.26180019531da4721aff.mp3",
+    "static/media/fire-background.gif": "./static/media/fire-background.7328e86199e88760d9f5.gif",
+    "static/media/9.mp3": "./static/media/9.b705b1ff49515429186e.mp3",
+    "static/media/10.mp3": "./static/media/10.3e2739b5866a4f1dbb12.mp3",
+    "index.html": "./index.html",
+    "main.af721dca.js.map": "./static/js/main.af721dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.af721dca.js"
+  ]
+}
